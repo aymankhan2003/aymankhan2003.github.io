@@ -1,0 +1,23 @@
+.Title-Color{
+ color: red;
+}
+
+body {
+  text-align: center;
+  color: white;
+  font: Arial;
+  background: yellow;
+}
+
+.red{
+  background-color: red;
+  height: 110px;
+}
+.blue{
+  background-color: blue;
+  height: 110px;
+}
+.green{
+  background-color: green;
+  height: 110px;
+}
